@@ -1,0 +1,5 @@
+package Model;
+
+public enum Measurements {
+    TEASPOON, TABLESPOON, CUP, PINT, QUART, GALLON, OUNCE, FLUID_OUNCE, POUND, LITER, KILOGRAM, WHOLE;
+}
