@@ -3,9 +3,9 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$/whats4dinner/src/main/java/com/StilwellProds/whats4dinner" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/whats4dinner/src/test" isTestSource="true" />
-      <sourceFolder url="file://$MODULE_DIR$/whats4dinner/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/whats4dinner/backend/src/main/java/com/StilwellProds/whats4dinner" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/whats4dinner/backend/src/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/whats4dinner/backend/src/test/java" isTestSource="true" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
@@ -35,5 +35,7 @@
         <SOURCES />
       </library>
     </orderEntry>
+    <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot:3.1.3" level="project" />
+    <orderEntry type="library" name="Maven: org.springframework.boot:spring-boot-autoconfigure:3.1.3" level="project" />
   </component>
 </module>
